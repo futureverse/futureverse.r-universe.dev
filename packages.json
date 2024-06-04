@@ -5,5 +5,12 @@
     "url": "https://github.com/futureverse/futureverse",
     "branch": "main",
     "available": true
+  },
+  {
+    "package": "future.tools",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/future.tools",
+    "branch": "main",
+    "available": true
   }
 ]
