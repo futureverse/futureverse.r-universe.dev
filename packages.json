@@ -16,7 +16,7 @@
   {
     "package": "marshal",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/futureverse/marhal",
+    "url": "https://github.com/futureverse/marshal",
     "branch": "main",
     "available": true
   }
