@@ -1,9 +1,9 @@
 [
   {
-    "package": "futureverse",
+    "package": "future",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/futureverse/futureverse",
-    "branch": "main",
+    "url": "https://github.com/futureverse/future",
+    "branch": "rc1",
     "available": true
   },
   {
