@@ -1,12 +1,5 @@
 [
   {
-    "package": "future",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/futureverse/future",
-    "branch": "rc4",
-    "available": true
-  },
-  {
     "package": "future.tools",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/futureverse/future.tools",
