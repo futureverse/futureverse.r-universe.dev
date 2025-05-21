@@ -1,9 +1,9 @@
 [
   {
-    "package": "parallelly",
+    "package": "doFuture.tests.extra",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/futureverse/parallelly",
-    "branch": "master",
+    "url": "https://github.com/futureverse/doFuture.tests.extra",
+    "branch": "main",
     "available": true
   },
   {
@@ -18,6 +18,15 @@
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/futureverse/marshal",
     "branch": "main",
+    "available": true
+  },
+
+    
+  {
+    "package": "parallelly",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/parallelly",
+    "branch": "master",
     "available": true
   }
 ]
