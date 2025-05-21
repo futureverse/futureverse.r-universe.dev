@@ -1,9 +1,9 @@
 [
   {
-    "package": "future",
+    "package": "parallelly",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/futureverse/future",
-    "branch": "cran/1.34.0",
+    "url": "https://github.com/futureverse/parallelly",
+    "branch": "master",
     "available": true
   },
   {
