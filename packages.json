@@ -19,14 +19,5 @@
     "url": "https://github.com/futureverse/marshal",
     "branch": "main",
     "available": true
-  },
-
-    
-  {
-    "package": "parallelly",
-    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/futureverse/parallelly",
-    "branch": "master",
-    "available": true
   }
 ]
