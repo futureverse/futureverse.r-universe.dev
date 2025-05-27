@@ -19,5 +19,12 @@
     "url": "https://github.com/futureverse/marshal",
     "branch": "main",
     "available": true
+  },
+  {
+    "package": "future",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/future",
+    "branch": "master",
+    "available": true
   }
 ]
