@@ -26,5 +26,12 @@
     "url": "https://github.com/futureverse/future",
     "tag": "d03e044298",
     "available": true
+  },
+  {
+    "package": "future.p2p",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/futureverse/future.p2p",
+    "branch": "main",
+    "available": true
   }
 ]
